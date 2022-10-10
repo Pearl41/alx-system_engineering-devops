@@ -1,1 +1,1 @@
-This repository conatins solution to shell tasks
+software engineering can be easier
